@@ -1,4 +1,4 @@
-### Shadows tuned to match the shadows on MY machine
+### Smaller alternative shadows
 
 ![](./showcase.png)
 
